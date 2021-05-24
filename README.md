@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## GHS VR Project - Exproring the use of Virtual Reality in the class room
+
+
+We as year 13 students will conduct a critical inquiry to propose the idea of VR education in primary schools and whether the students find it easier and more profitable than text book education. We are planning to work with Greymain and Karoro school to give students the opportunity to create and test Virtual Reality games. The types of games are optional to the students and will likely be made using Unity, similar to the Adventure Climb game. Your child has the opportunity to come to Greyhigh School for 3 sessions to learn about and play games in virtual reality.
+
 
 You can use the [editor on GitHub](https://github.com/smithd-17/GHS-VR-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
